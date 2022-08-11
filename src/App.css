@@ -1,0 +1,40 @@
+body {
+  background: #212126;
+}
+
+h1 {
+  color: blueviolet;
+}
+
+button {
+  background: blueviolet;
+  color: #fff;
+  height: 3rem;
+  width: 5rem;
+  border-radius: 8px;
+  border: none;
+  margin-left: 0.5rem;
+}
+
+input {
+  width: 20rem;
+  height: 2rem;
+  border-radius: 8px;
+  border: 1px solid #e1e1e6;
+  padding: 0.5rem;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  width: 26rem;
+  border-radius: 8px;
+  border: none;
+  padding: 0.5rem;
+  margin-top: 1rem;
+  background: #e1e1e6;
+}
+
+li {
+  list-style: none;
+}
